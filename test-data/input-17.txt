@@ -1,0 +1,3 @@
+# invalid firing mode (null) -> error message, nothing fired
+GT4500,1,0,1,0
+TORPEDO,null  # not a valid firing mode
