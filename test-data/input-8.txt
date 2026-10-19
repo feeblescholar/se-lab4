@@ -1,0 +1,4 @@
+# single, last fired primary, primary 1, secondary 1 (always fails) -> FALSE, primary not fired
+GT4500,2,0,1,1
+TORPEDO,SINGLE  # setup: fire primary, leaving 1 in primary
+TORPEDO,SINGLE  # secondary fails, primary must not be tried

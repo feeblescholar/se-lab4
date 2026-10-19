@@ -1,0 +1,5 @@
+# single, last fired secondary, primary 1, secondary 1 -> TRUE, primary--
+GT4500,2,0,2,0
+TORPEDO,SINGLE  # setup: fire primary, leaving 1 in primary
+TORPEDO,SINGLE  # setup: fire secondary, leaving 1 in secondary
+TORPEDO,SINGLE  # secondary fired last, fires primary

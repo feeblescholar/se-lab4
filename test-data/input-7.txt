@@ -1,0 +1,3 @@
+# single, last fired n/a, primary 1 (always fails), secondary 1 -> FALSE, secondary not fired
+GT4500,1,1,1,0
+TORPEDO,SINGLE  # primary fails, secondary must not be tried

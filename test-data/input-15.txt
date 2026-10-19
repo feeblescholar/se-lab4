@@ -1,0 +1,3 @@
+# all, primary 1 (always fails), secondary 1 (always fails) -> FALSE, nothing fired
+GT4500,1,1,1,1
+TORPEDO,ALL  # both stores fail
