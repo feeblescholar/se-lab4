@@ -1,0 +1,3 @@
+# all, primary 0, secondary 1 -> TRUE, secondary--
+GT4500,0,0,1,0
+TORPEDO,ALL  # only secondary can fire

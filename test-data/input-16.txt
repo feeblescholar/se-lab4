@@ -1,0 +1,4 @@
+# single, last fired primary, primary 0, secondary 0 -> FALSE, nothing fired (secondary empty, falls back to primary, which is empty too)
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # setup: fire primary, emptying it
+TORPEDO,SINGLE  # secondary next in line but empty, primary empty too
